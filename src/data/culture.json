@@ -1,0 +1,571 @@
+{
+    "data": [
+        {
+        "sumatera": [
+            {
+                "pre-test": [
+                {
+                    "id": 1,
+                    "soal": ""
+                },
+                {
+                    "id": 2,
+                    "soal": ""
+                }
+                ]
+            },
+            {
+                "post-test": [
+                    {
+                        "id": 1,
+                        "soal": "",
+                        "jawaban": ""
+                    },
+                    {
+                        "id": 2,
+                        "soal": "",
+                        "jawaban": ""
+                    }
+                    ]
+            },
+            {
+                "aceh": {
+                    "province": "Nanggroe Aceh Darussalam",
+                    "ibukota": "Ibu Kota Banda Aceh",
+                    "makanan": "Eungkot Keumamah",
+                    "text-makanan": "Eungkot Keumamah merupakan masakan khas Aceh sebagai makanan para pejuang Aceh saat melawan penjajah karena tidak mudah basi. Ikan yang digunakan adalah ikan tuna yang direbus lalu dikeringkan, lalu diiris-iris lalu ditambahkan berbagai macam bahan seperti santan kelapa, kentang, cabai hijau dan rempah lainnya.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Aceh",
+                    "text-rumah": "Tinggi Rumoh Aceh dari permukaan tanah dibangun dengan jarak sekitar 2 sampai 3 meter. Rumoh Aceh memiliki ciri khas utama yaitu terdapat pintu yang tingginya sekitar 120-150 cm saja sehingga jika hendak melewatinya harus menunduk lebih dulu. Adapun jenis-jenis Rumoh Aceh adalah sebagai berikut: Rumah Krong Bade, Rumah Santeut, Rumah Rangkang.",
+                    "img-rumah": ""
+                },
+                "sumatera-utara": {
+                    "province": "Sumatera Utara",
+                    "ibukota": "Ibu Kota Medan",
+                    "makanan": "Bika Ambon",
+                    "text-makanan": "Bika ambon merupakan jenis kue yang berwarna kuning dengan bentuk pipih dan permukaannya terlihat seperti pori-pori kulit manusia. Nama bika dalam kue ini terinspirasi dari kue khas Melayu Bika atau Bingka yang kemudian dimodifikasi dengan tambahan pengembang dari bahan Nira atau tuak Enau. Seiring perkembangan jaman, bika ambon tidak hanya berwarna kuning, namun memiliki varian warna sesuai rasa seperti durian, keju, pandan, dan coklat. Berdasarkan catatan sejarah, bika merupakan salah satu peninggalan Portugis di Maluku yang diperkenalkan oleh penduduk setempat.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Bolon",
+                    "text-rumah": "Rumah dengan ketinggian 1,7meter ini dahulu digunakan sebagai tempat tinggal para raja. Seiring perubahan zaman, rumah ini banyak dibangun sebagai tempat tinggal masyarakat suku Batak. Rumah adat ini kemudian berbentuk rumah panggung, dengan tujuan bagian kolongnya sebagai tempat pemeliharaan hewan seperti kambing atau ayam. Uniknya dari rumah ini berbentuk rumah panggung, untuk dapat masuk ke rumah adat ini harus menggunakan tangga yang terletak di bagian tengah bangunan, dengan maksud agar tamu yang datang kemudian menunduk atau menghormati sang empunya rumah.",
+                    "img-rumah": ""
+                },
+                "sumatera-selatan": {
+                    "province": "Sumatera Selatan",
+                    "ibukota": "Ibu Kota Palembang",
+                    "makanan": "Pempek",
+                    "text-makanan": "Pada awalnya Pempek dikenal dengan nama ‘Kelesan’ sebutan untuk alat yang digunakan untuk menghaluskan daging ikan karena cara pembuatan pempek adalah di-‘keles’. Bahan dasar yang digunakan untuk membuat Pempek adalah ikan. Pada awalnya ikan yang digunakan adalah ikan belida. Alasan kelangkaan membuat masyarakat beralih ke ikan yang lebih murah dan lebih mudah diperoleh. Ikan tersebut dibersihkan dengan cara membuang kepala dan tulangnya, lalu digiling hingga lumat dan dicampur dengan tepung.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Limas",
+                    "text-rumah": "Berdasarkan asal-usul sejarahnya, rumah tradisional masyarakat Palembang yang pertama kali adalah rumah rakit karena wilayah Palembang sejak dahulu merupakan daerah periairan dan rawa-rawa. Saat itu, masyarakat Palembang yang tinggal di rumah rakit merupakan seorang penguasa atau orang yang dihormati dengan bentuk atap limas dan lantai rumahnya mempunyai perbedaan kekijing atau ketinggian lantai. Perbedaan ketinggian lantai bangunan itu muncul dikarenakan munculnya filosofi adanya perbedaan kedudukan di dalam Masyarakat sehingga muncul pertentangan. Pertentangan itu kemudian menghasilkan pembangunan rumah limas tanpa bengkilas yang memiliki makna jika derajat semua manusia sama di mata Tuhan.",
+                    "img-rumah": ""
+                },
+                "sumatera-barat": {
+                    "province": "Sumatera Barat",
+                    "ibukota": "Ibu Kota Padang",
+                    "makanan": "Rendang",
+                    "text-makanan": "Pengertian randong diambil dari kata morandong, yakni suatu proses pengolahan lauk berbahan dasar santan yang dimasak sampai kandungan airnya berkurang. Randang adalah sebuah olahan masakan dengan cara dirandang yakni dimasak dengan api sangai sampai kering yang proses memasaknya dilakukan secara tradisional. Rendang terbagi menjadi dua jenis, yakni randong kering dan randong basah (kolio). Rondong kering adalah rondong yang sudah berwarna coklat kehitaman, sedangkan randong basah adalah rondong yang masih berwarna merah kecoklatan sampai coklat.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Gadang",
+                    "text-rumah": "Sebuah rumah gadang, merupakan rumah utama yang dimiliki oleh sekelompok masyarakat minangkabau yang diikat oleh suatu suku tertentu. Rumah gadang merupakan tempat untuk melangsungkan acara-acara adat dan acara-acara penting lain dari suku yang bersangkutan. Kegiatan-kegiatan adat pada masyarakat minangkabau dapat kita uraikan berdasarkan kepada siklus kehidupan mereka, yaitu: Turun Mandi, Khitan, Perkawinan, Batagak Gala (Pengangkatan Datuak), dan Kematian. Fungsi-fungsi di atas dapat disebut juga fungsi temporer yang berlangsung pada suatu rumah gadang.",
+                    "img-rumah": ""
+                },
+                "bengkulu": {
+                    "province": "Bengkulu",
+                    "ibukota": "Ibu Kota Bengkulu",
+                    "makanan": "Bagar hiu",
+                    "text-makanan": "Bagar hiu merupakan olahan makanan dari ikan hiu. Makanan khas Bengkulu ini disebut bagar hiu karena jenis ikan yang digunakan adalah ikan hiu. Bahan utama untuk membuat bagar hiu tentu adalah ikan hiu. Bahan lainnya adalah kelapa sangrai dan cabai. Bagar hiu memang lezat, tetapi ikan hiu terkadang sulit didapat karena nelayan tidak selalu dapat menangkap ikan hiu. Namun, pada masa-masa tertentu, tangkapan melimpah. Misalnya, saat bulan Ramadan, bagar hiu sangat laris. Konon masakan ini adalah makanan favorit Presiden RI Soekarno selama pengasingan di Bengkulu.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Bubungan Lima",
+                    "text-rumah": "Salah satu hal yang pertama kali mencolok dari rumah adat Bengkulu Bubungan Lima, adalah bentuk atapnya yang unik yaitu tampak bertumpuk-tumpuk. Atapnya biasanya terbuat dari ijuk pohon enau. Selain itu, Rumah Bubungan Lima memiliki sekitar 15 tiang penopang dengan tinggi sekitar 1,8meter yang menjadikan rumah ini kuat dan tahan terhadap gempa bumi. Selain itu, jumlah ganjil sangat penting dalam struktur rumah ini, mencerminkan kepercayaan adat setempat. Rumah ini memiliki fungsi khusus, seperti tempat untuk mengadakan berbagai ritual adat, seperti pernikahan, kelahiran, penyambutan tamu, dan bahkan upacara kematian. Di bawah rumah, terdapat kolong yang digunakan sebagai tempat penyimpanan berbagai barang, termasuk gerobak, hasil panen pertanian, kandang hewan, alat-alat pertanian, dan banyak lagi.",
+                    "img-rumah": ""
+                },
+                "riau": {
+                    "province": "Riau",
+                    "ibukota": "Ibu Kota Pekanbaru",
+                    "makanan": "Sup Tunjang",
+                    "text-makanan": "Makanan khas Riau yang pertama adalah sup tunjang. Hidangan ini terbuat dari kaldu tunjang yaitu kaki sapi. Daging yang masih menempel di bagian kaki sapi yang menciptakan rasa empuk dan lembut menjadi ciri khas sup tunjang ini.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Melayu Atap Limas Potong",
+                    "text-rumah": "Rumah adat Riau dapat dikenali dengan beberapa ciri-ciri umum, yaitu pada umumnya menghadap ke sungai. Ciri lainnya adalah rumah adat Riau mayoritas berupa rumah panggung yang bawahnya disangga oleh kayu yang kuat pada bagian tepinya. Riau merupakan daerah yang memiliki hutan sangat luas sehingga untuk menghindari serangan binatang buas, masyarakat Melayu merancang rumah mereka menjadi rumah panggung. Namun seiring waktu, hewan buas sudah mulai berkurang. Bagian bawah rumah lebih banyak digunakan untuk kandang hewan ternak. Tidak hanya itu, rumah panggung juga berfungsi untuk melindungi rumah dari banjir.",
+                    "img-rumah": ""
+                },
+                "kepulauan-riau": {
+                    "province": "Kepulauan Riau",
+                    "ibukota": "Ibu Kota Tanjung Pinang",
+                    "makanan": "Mie Lendir",
+                    "text-makanan": "Kuliner satu ini disebut Mie Lendir karena memiliki kuah dengan tekstur kental sehingga terlihat seperti lender. Bahan dasar kuah Mie Lendir ialah kacang tanah goreng yang sudah dihaluskan dipadukan dengan tepung kanji atau tepung maizena, dan gula merah. Penyajiannya, Mie Lendir sendiri ditambah potongan telur rebus, tauge dan juga daun bawang. Untuk menambah rasa dan menggugah selera biasanya mie lendir ditaburi bawang goreng dan untuk menambah rasa pedas biasanya ditambahkan potongan cabai rawit.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Adat Selaso Jatuh Kembar",
+                    "text-rumah": "Rumah adat Riau digambarkan dengan beberapa unsur, yakni bertiang and bertangga, beratap menampung hujan dan menahan panas, berdinding penghambat angin dan tempias, berselasar dan berpelantar, beruang besar dan berbilik dalam, serta berpenanggah dan bertepian. Dari unsur tersebut, dirangkum tiga unsur utama di dalam rumah adat kepulauan Riau, yakni Tiang, yaitu penyangga rumah yang terbuat dari kayu, yang menjadikan rumah adat Riau berbentuk rumah panggung. Lalu, dinding rumah, biasanya terbuat dari daun, dan Bubung, yang mencakup berbagai rangkaian kayu.",
+                    "img-rumah": ""
+                },
+                "jambi": {
+                    "province": "Jambi",
+                    "ibukota": "Ibu Kota Jambi",
+                    "makanan": "Tempoyak",
+                    "text-makanan": "Tempoyak adalah makanan khas Jambi yang menggunakan bahan utama berupa durian yang difermentasi. Tempoyak adalah bumbu yang biasa disajikan sebagai aluk dan dimakan bersama nasi. Orang Jambi juga tak jarang menggunakan tempoyak sebagai bahan campuran dalam membuat sambal. Tempoyak mempunyai cita rasa asam yang khas dengan tekstur daging buah yang lembek.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Kajang Lako",
+                    "text-rumah": "Dari samping, bentuk bubungan rumah adat ini menyerupai perahu yang bagian atas melengkung lalu meruncing di bagian kedua ujungnya sehingga mirip dengan perahu terbalik. Bubungan tersebut biasa disebut dengan “Gajah Mabuk”. Nama tersebut disesuaikan dengan nama orang yang membuat sekaligus mendesainnya. Konon pembuat rumah tersebut sedang dilanda mabuk kepayang oleh cinta kepada seseorang yang telah mencuri hatinya namun terhalang restu orang tua.",
+                    "img-rumah": ""
+                },
+                "lampung": {
+                    "province": "Lampung",
+                    "ibukota": "Ibu Kota Bandar Lampung",
+                    "makanan": "Seruit",
+                    "text-makanan": "Seruit terbuat dari ikan yang dibakar, lalu dicampurkan dengan berbagai macam bumbu seperti cabai, bawang merah, terasi, gula putih, garam, mangga kweni, dan tomat. Ikan yang digunakan di dalam seruit adalah ikan air tawar seperti baung, belida, mas, lais, dan patin. Ikan tersebut dapat disajikan secara terpisah dengan sambal seruit, dilumuri dengan sambal, atau dipotong kecil-kecil, dan dicampurkan ke dalam sambal.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Lamban Pesagi",
+                    "text-rumah": "Rumah panggung ini terbuat dari konstruksi kayu dan bambu, berdiri di atas tiang yang atapnya ditutup dengan ijuk. Lantai bangunan menggunakan pelupuh bambu yang saling dirangkai dengan ikatan tali ijuk sehingga membentuk lantai pelupuh. Dinding bangunan terbuat dari susunan papan kayu yang dilengkapi dengan jendela berukuran kecil. Keistimewaan bangunan ini adalah sambungan pengikat yang tidak menggunakan paku, melainkan dengan ikatan tambang ijuk pasak.",
+                    "img-rumah": ""
+                },
+                "bangka-belitung": {
+                    "province": "Bangka Belitung",
+                    "ibukota": "Ibu Kota Pangkal Pinang",
+                    "makanan": "Lempah Kuning",
+                    "text-makanan": "Makanan Lempah Kuning ini oleh masyarakat Bangka Belitung sering juga disebut dengan nama Ganga terutama di masyarakat di pulau Belitung. Makanan yang satu ini biasanya akan disajikan dengan kuah yang berwarna kuning. Selain itu, ada juga yang memberikan potongan nanas. Hal ini bertujuan untuk meningkatkan rasa segar pada masakan. Ikan yang digunakan pada masakan ini biasanya adalah ikan tenggiri atau ikan kakap merah.",
+                    "img-makanan": "",
+                    "rumah": "Rumah Panggung",
+                    "text-rumah": "Rumah adat panggung adalah rumah adat Bangka Belitung yang mudah untuk ditemukan di wilayah Sumatera. Hal itu dikarenakan adanya pengaruh dari kebudayaan Melayu. Jenis rumah adat ini masih dapat kita temukan di wilayah Bangka Belitung. Adapun ciri khas dari rumah adat Bangka Belitung ini jika dibandingkan dengan rumah panggung lain yaitu ada gaya bangunan yang memadukan gaya Melayu Awal, Melayu Bubungan, dan Melayu Bubungan Limas.",
+                    "img-rumah": ""
+                }
+            }
+        ],
+        "kalimantan": [
+            {
+            "pre-test": [
+                {
+                    "id": 1,
+                    "soal": ""
+                },
+                {
+                    "id": 2,
+                    "soal": ""
+                }
+            ]
+            },
+            {
+                "post-test": [
+                    {
+                        "id": 1,
+                        "soal": "",
+                        "jawaban": ""
+                    },
+                    {
+                        "id": 2,
+                        "soal": "",
+                        "jawaban": ""
+                    }
+                    ]
+            },
+            {
+                "kalimantan-barat": {
+                  "province": "Kalimantan Barat",
+                  "ibukota": "Ibu Kota Pontianak",
+                  "makanan": "Bubur Pedas",
+                  "text-makanan": "Bubur Pedas atau Bubbor Paddas adalah makanan tradisional khas orang Melayu Sambas dari Kalimantan Barat yang berupa sejenis bubur. Bubur pedas terbuat dari nasi halus dan kelapa parut. Stok dibuat baik dari daging tulang seperti tulang rusuk atau irisan ayam. Meski mengandung kata pedas, rasa bubur ini tidak terlalu pedas. Nama bubur pedas adalah ungkapan masyarakat Sambas, karena bubur ini mengandung rempah-rempah.",
+                  "img-makanan": "",
+                  "rumah": "Betang Radakng",
+                  "text-rumah": "Rumah Radakng sendiri dibangun dengan tujuan menjadi replika sehingga tidak dihuni oleh suku Dayaknya. Tak hanya dijadikan sebagai destinasi wisata, Rumah Betang Radakng juga menjadi pusat kesenian suku Dayak. Rumah adat ini juga dirancang khusus untuk menampung penghuni dalam jumlah yang banyak hingga 600 orang pada bagian ruang utamanya. Rumah adat ini dikenal juga sebagai rumah Panjang atau rumah betang yang Namanya diambil dari bahasa suku Dayak Kanayatn.",
+                  "img-rumah": ""
+                },
+                "kalimantan-timur": {
+                  "province": "Kalimantan Timur",
+                  "ibukota": "Ibu Kota Samarinda",
+                  "makanan": "Gangan Manok",
+                  "text-makanan": "Gangan manok merupakan sayur yang memakai ikan air tawar sebagai lauk. Ikan dengan kuah sayur asam ini disajikan dalam bentuk hangat untuk meningkatkan rasa dan kenikmatannya. Rasa asam didapatkan dari campuran jeruk nipis serta terong Dayak. Pembeda sayur gangan dengan hidangan asam lain adalah campuran di salamnya yaitu beberapa potong pisang, umbi-umbian, serta ikan gabus yang disakitan menjadi satu.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Lamin atau Rumah Panjang",
+                  "text-rumah": "Wilayah Kalimantan Timur yang berada di jalur khatulistiwa memiliki struktur tanah gambut dengan banyak kandungan mineral. Mayoritas lingkungannya masih tertutup hutan hujan tropis lebat. Hal tersebut memengaruhi kondisi iklim dan cuaca Kalimantan Timur yang sangat panas dengan tingkat kelembapan yang tinggi, sehingga ikut membentuk karakter rumah Lamin.",
+                  "img-rumah": ""
+                },
+                "kalimantan-selatan": {
+                  "province": "Kalimantan Selatan",
+                  "ibukota": "Ibu Kota Banjarbaru",
+                  "makanan": "Soto Banjar",
+                  "text-makanan": "Meskipun di Indonesia ini banyak sekali menu soto, tetapi yang membedakan antara soto banjar dengan jenis soto yang lainnya adalah kuah dari soto banjar yang cenderung bening dan menyerupai olahan sop. Selain itu, makanan yang satu ini paling cocok bila disantap dengan menggunakan ketupat dan sate, bukan nasi hangat. Soto banjar sendiri ada 2 macam, yaitu ada yang memiliki tekstur kuah encer dan bening, tetapi ada juga yang memiliki tekstur kuah kental dan berwarna agak keruh.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Bubungan Tinggi",
+                  "text-rumah": "Jenis rumah adat yang satu ini termasuk yang tertua dimiliki oleh masyarakat Kalimantan Selatan. Termasuk juga yang paling tinggi dibandingkan dengan rumah adat lainnya yang dimiliki oleh suku Banjar. Pada masa Kesultanan Banjar, rumah adat ini digunakan oleh para keturunan bangsawan maupun saudagar yang dekat dengan kesultanan. Bentuknya sendiri seperti rumah panggung yang dilengkapi dengan pondasi berupa titik dan atap miring dengan ukuran cukup besar.",
+                  "img-rumah": ""
+                },
+                "kalimantan-tengah": {
+                  "province": "Kalimantan Tengah",
+                  "ibukota": "Ibu Kota Palangkaraya",
+                  "makanan": "Bangamat",
+                  "text-makanan": "Bangamat yaitu makanan yang terbuat dari kelelawar besar / kalong. Umumnya orang Dayak Ngaju memasak Paing dengan bumbu yang lebih banyak, sedangkan orang Dayak Maanyan memasak Paing dengan bumbu serai dan juga daun pikauk. Paing dimasak bersama sayur hati batang pisang kipas yang dipotong-potong atau bisa juga dimasak dengan sulur keladi.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Betang",
+                  "text-rumah": "Rumah adat ini sendiri memiliki bentuk seperti rumah panggung serta dibuat secara memanjang. Rumah dengan ukuran besar ini kemudian umumnya dihuni oleh banyak penduduk, setidaknya terdapat minimal 100 orang di dalam satu rumah. Rumah adat Batang juga dapat dikatakan sebagai salah satu rumah suku terbesar Rumah adat Betang ini juga memiliki makna tersendiri yaitu menjadi sebuah pernyataan secara konkret serta sepenuhnya tentang tata pamong desa, sistem kependudukan serta dapat menjadi sebuah titik pusat bagi seluruh kehidupan masyarakat yang tinggal serta berada di dalamnya.",
+                  "img-rumah": ""
+                },
+                "kalimantan-utara": {
+                  "province": "Kalimantan Utara",
+                  "ibukota": "Ibu Kota Tanjung Selor",
+                  "makanan": "Lawa",
+                  "text-makanan": "Makanan ini merupakan makanan khas Kerajaan Bulungan, salah satu kerajaan di daerah Kalimantan Utara. Makanan khas ini berbahan dasar dari beberapa bahan pokok dari sayuran yang kemudian di campur dan dibumbui kelapa sangrai dan udang galah. Udang galah atau udang raja merupakan udang yang memiliki ukuran besar, sangat sering di jumpai di wilayah Kalimantan.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Baloy",
+                  "text-rumah": "Rumah Baloy merupakan rumah berdesain panggung dengan bahan kayu ulin yang tahan akan air. Rumah adat Baloy biasanya dilengkapi dengan ukiran-ukiran khas yang menggambarkan kearifan lokal daerah pesisir. Rumah baloy terbagi menjadi beberapa ruangan yang fungsinya selalu terkait dengan kehidupan sosial kemasyarakatan. Hal ini menunjukan bahwa suku Tidung adalah masyarakat yang cinta damai dan mau bermusyawarah untuk menyelesaikan semua masalah.",
+                  "img-rumah": ""
+                }
+            }
+              
+        ],
+        "jawa": [
+            {
+            "pre-test": [
+                {
+                    "id": 1,
+                    "soal": ""
+                },
+                {
+                    "id": 2,
+                    "soal": ""
+                }
+            ]
+            },
+            {
+                "post-test": [
+                    {
+                        "id": 1,
+                        "soal": "",
+                        "jawaban": ""
+                    },
+                    {
+                        "id": 2,
+                        "soal": "",
+                        "jawaban": ""
+                    }
+                    ]
+            },
+            {
+                "banten": {
+                  "province": "Banten",
+                  "ibukota": "Ibu Kota Serang",
+                  "makanan": "Sate Bandeng",
+                  "text-makanan": "Sate bandeng yang saat ini ada merupakan racikan dari chef atau juru masak Kesultanan Banten pada abad ke-16. Pembuatan sate bandeng berawal dari kebingungan sang juru masak. Sang juru masak akan menghidangkan ikan bandeng kepada raja, namun ragu-ragu karena ikan bandeng memiliki banyak duri.",
+                  "img-makanan": "",
+                  "rumah": "Sulah Nyanda",
+                  "text-rumah": "Rumah adat Banten mempunyai sebutan dengan nama Sulah Nyanda. Rumah adat Banten ini juga menjadi simbol dari masyarakat Baduy. Karena rumah adat tersebut mempunyai nilai tersendiri bagi masyarakat sekitar, yakni sebagai tempat untuk berlindung dan juga tempat yang nyaman untuk ditempati. Pembangunan rumah adat Banten ini dilakukan secara bergotong royong oleh masyarakat setempat. Hal tersebut dikarenakan rasa kekeluargaan yang ada pada siku tersebut masih tertanam dengan baik.",
+                  "img-rumah": ""
+                },
+                "jakarta": {
+                  "province": "DKI Jakarta",
+                  "ibukota": "Ibu Kota Jakarta",
+                  "makanan": "Kerak Telor",
+                  "text-makanan": "Kerak telor sendiri adalah makanan yang terbuat dari telur, beras, dan serundeng. Kerak telor sering kali dianggap sebagai makanan yang sangat unik. Hal ini dikarenakan proses pembuatannya yang menggunakan arang. Beras akan dimasak di atas tungku arang hingga menjadi aronan nasi dan dicampur dengan telur bebek atau ayam. Setelah itu, aron nasi tersebut akan dibuat lebar agar kerak telornya bisa matang dengan sempurna di atas arang.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Kebaya",
+                  "text-rumah": "Rumah adat DKI Jakarta disebut Rumah Kebaya karena bentuk atap rumah ini mirip dengan pelana yang dilipat. Di rumah Kebaya ini juga ada aturan tertentu dalam pembagian ruangnya. Biasanya pemilik rumah membagi ruang menjadi 2 area, satu untuk semipublic dan satunya untuk ruang pribadi. Area publik umumnya diletakkan di bagian depan, yaitu sebagai teras dan ruang tamu.",
+                  "img-rumah": ""
+                },
+                "jawa-barat": {
+                  "province": "Jawa Barat",
+                  "ibukota": "Ibu Kota Bandung",
+                  "makanan": "Karedok",
+                  "text-makanan": "Kuliner khas Provinsi Jawa Barat yang satu ini jika dilihat sekilas cukup mirip dengan makanan gado-gado yang berasal dari Jakarta. Kedua kuliner ini sama-sama berbahan dasar aneka sayuran yang disiram dengan sambal kacang. Akan tetapi, perbedaan yang mencolok terletak pada sayur yang digunakan. Karedok menggunakan berbagai macam sayuran mentah supaya terasa lebih sedangkan gado-gado menggunakan berbagai macam sayuran yang telah direbus supaya rasa mentah pada sayuran menghilang.",
+                  "img-makanan": "",
+                  "rumah": "Julang ngapak (Rumah Kasepuhan Cirebon)",
+                  "text-rumah": "Atap rumah ini mirip dengan burung yang sedang mengepakkan sayap, sehingga dinamakan julang ngapak. Bagian atas rumah berbentuk segitiga, kemudian melebar di bagian bawahnya. Adapun pada kedua sudut atapnya terdapat cagak gunting yang berfungsi sebagai pencegah rembesan air hujan.",
+                  "img-rumah": ""
+                },
+                "jawa-tengah": {
+                  "province": "Jawa Tengah",
+                  "ibukota": "Ibu Kota Semarang",
+                  "makanan": "Tahu Gimbal",
+                  "text-makanan": "Gimbal adalah makanan yang terbuat dari udang yang digoreng dengan tepung dan memiliki rasa yang sangat gurih. Seluruh isian tahu gimbal yang tercampur dan siap dihidangkan, akan disirami oleh bumbu kacang yang khas karena dibuat dengan petis udang sehingga rasanya sangat kaya. Saus kacang yang digunakan untuk tahu gimbal dibuat lebih cair atau encer dibandingkan dengan makanan lain yang menggunakan saus kacang juga.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Joglo",
+                  "text-rumah": "Joglo dibangun dari berbagai jenis kayu yang tahan lama, dan biasanya memakai jenis kayu jati. Maka dari itu, harganya pun tidaklah murah. Sehingga bagi masyarakat menengah ke bawah, rata-rata tidak sanggup untuk membeli bahan bangunannya. Dalam pembangunannya, terdapat aturan-aturan adat khusus yang memang dipercaya oleh masyarakat. Baik dari segi desain arsitektur rumah, sampai ornamen atau hiasan yang dibutuhkan untuk bagian dalam.",
+                  "img-rumah": ""
+                },
+                "yogyakarta": {
+                  "province": "Daerah Istimewa Yogyakarta",
+                  "ibukota": "Ibu Kota Yogyakarta",
+                  "makanan": "Gudeg",
+                  "text-makanan": "Menu khas ini dibuat dari nangka muda yang dimasak menggunakan santan dalam waktu yang cukup lama. Makanan khas Yogyakarta ini biasanya dimakan bersama nasi dan disajikan dengan kuah santan kental atau areh, ayam kampung, telur, tahu dan sambal goreng krecek.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Joglo",
+                  "text-rumah": "Joglo berasal dari kata Tajug Loro (Juglo) yang bermakna dua gunung. Seiring dengan berkembangnya zaman, kini rumah Joglo sendiri dapat dibangun oleh berbagai kalangan dan kerap digunakan pada Gedung perkantoran atau pemerintahan. Perbedaannya dengan Joglo Jawa Tengah yaitu Joglo DIY menyerupai bangsal kencono dari keraton Yogyakarta Hadiningrat.",
+                  "img-rumah": ""
+                },
+                "jawa-timur": {
+                  "province": "Jawa Timur",
+                  "ibukota": "Ibu Kota Surabaya",
+                  "makanan": "Rawon",
+                  "text-makanan": "Kuah rawon memiliki warna hitam karena dihasilkan dari kluwek dan kuahnya inilah yang menjadi ciri khasnya. Rawon biasanya menggunakan daging sapi yang diiris kotak-kotak dan direbus dalam waktu yang lama untuk menghasilkan daging yang empuk. Rawon adalah adalah salah satu makanan atau hidangan tertua yang ada dalam sejarah Jawa kuno.",
+                  "img-makanan": "",
+                  "rumah": "Joglo Sinom",
+                  "text-rumah": "Dalam pembangunannya dibuat saka guru atau tiang penyangga dan juga bebatur, yang dibuat dengan posisi tanah lebih tinggi dari sekitarnya. Bebatur ini menjadi cermin dari keharmonisan alam dan manusia, juga antara manusia satu dengan manusia lainnya. Lalu untuk pondasi rumah Joglo lebih berkaitan erat dengan kepercayaan kejawen yang masih dianut masyarakat.",
+                  "img-rumah": ""
+                }
+            }
+              
+        ],
+        "sulawesi": [
+            {
+            "pre-test": [
+                {
+                    "id": 1,
+                    "soal": ""
+                },
+                {
+                    "id": 2,
+                    "soal": ""
+                }
+            ]
+            },
+            {
+                "post-test": [
+                    {
+                        "id": 1,
+                        "soal": "",
+                        "jawaban": ""
+                    },
+                    {
+                        "id": 2,
+                        "soal": "",
+                        "jawaban": ""
+                    }
+                    ]
+            },
+            {
+                "gorontalo": {
+                  "province": "Gorontalo",
+                  "ibukota": "Ibu Kota Gorontalo",
+                  "makanan": "Binte Biluhuta",
+                  "text-makanan": "Binte Biluhuta atau yang juga sering kali disebut sebagai Milu Siram adalah makanan khas Gorontalo. Binte Biluhuta tak sekadar berisi sayuran sehat, tetapi juga terdapat udang maupun ikan cakalang. Dari segi bahasa, Binte Biluhuta memiliki arti jagung yang disiram.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Adat Dulohupa",
+                  "text-rumah": "Rumah Adat Dulohupa berbentuk rumah panggung yang badannya terbuat dari papan dan struktur atap bernuansa daerah Gorontalo. Selain itu, rumah adat Dulohupa juga dilengkapi pilar-pilar kayu sebagai hiasan serta lambang dari rumah adat Gorontalo. Rumah adat Dulohupa dibangun berbentuk rumah panggung sebagai penggambaran dari badan manusia yaitu atap menggambarkan kepala, badan rumah menggambarkan badan, dan pilar penyangga rumah menggambarkan kaki.",
+                  "img-rumah": ""
+                },
+                "sulawesi-barat": {
+                  "province": "Sulawesi Barat",
+                  "ibukota": "Ibu Kota Mamuju",
+                  "makanan": "Lokka Satai",
+                  "text-makanan": "Pisang Kepok yang sejak zaman dahulu oleh masyarakat di provinsi Sulawesi Barat telah diolah sedemikian rupa sehingga mempunyai rasa yang enak untuk dinikmati disebut Loka Sattai. Selain pisang kepok muda sebagai bahan dasar pembuatan makanan tradisional Loka Sattai ini, bahan dasar yang tidak kalah pentingnya adalah santan kelapa.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Boyang",
+                  "text-rumah": "Rumah Boyang memiliki gaya arsitektur yang unik, berbentuk rumah panggung yang tersusun dari material kayu dan ditopang tiang-tiang penyangga. Rumah Boyang memiliki struktur rumah panggung yang menggunakan material kayu dan ditopang oleh beberapa tiang yang terbuat dari kayu berukuran besar dengan tinggi dua meter. Tiang-tiang tersebut berfungsi untuk menopang lantai dan atap rumah.",
+                  "img-rumah": ""
+                },
+                "sulawesi-tengah": {
+                  "province": "Sulawesi Tengah",
+                  "ibukota": "Ibu Kota Palu",
+                  "makanan": "Kapurung",
+                  "text-makanan": "Kuliner ini terbuat dari sayuran rebus yang kemudian dicampur dengan tepung sagu. Sayuran yang dipakai di dalam Kapurung adalah kacang panjang, jantung pisang, pakis, dan juga bayam. Kapurung terdiri dari beberapa pilihan yaitu varian ayam, ikan, atau udang. Anda bisa memilih sesuai dengan selera.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Tambi",
+                  "text-rumah": "Rumah Tambi adalah sebuah rumah adat dari warga Sulteng pada umumnya, yakni dari berbagai golongan masyarakat. Rumah adat ini sengaja dibuat menghadap ke arah Utara – Selatan, dan juga tidak boleh menghadap atau membelakangi arah matahari dengan konstruksi rumah seperti jamur berbentuk prisma.",
+                  "img-rumah": ""
+                },
+                "sulawesi-utara": {
+                  "province": "Sulawesi Utara",
+                  "ibukota": "Ibu Kota Manado",
+                  "makanan": "Bubur Tinutuan atau Bubur Manado",
+                  "text-makanan": "Bubur ini juga dikenal sebagai Bubur Manado, akan tetapi juga banyak tersebar di Sulawesi Utara yaitu Likupang. Dalam bubur ini, berisi banyak isian seperti kangkung, bayam, kemangi, jagung, ubi, dan lain sebagainya. Rasanya yang gurih manis dan varian isian yang beragam.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Walawengko",
+                  "text-rumah": "Rumah adat Walewangko atau yang biasa disebut dengan Rumah Pewaris adalah rumah adat suku Minahasa yang tinggal di Sulawesi Utara. Rumah ini memiliki dua bentuk rumah panjang yang disebut Walewangko. Rumah Walewangko dahulu dibuat dengan teknik ikat, yakni menempelkan bahan pada pohon yang tinggi. Teknik ini dilakukan untuk mengantisipasi binatang buas atau banjir yang kemudian diubah menjadi rumah panggung dengan kayu besi sebagai kerangka rumah agar awet selama puluhan tahun lamanya.",
+                  "img-rumah": ""
+                },
+                "sulawesi-tenggara": {
+                  "province": "Sulawesi Tenggara",
+                  "ibukota": "Ibu Kota Kendari",
+                  "makanan": "Lapa-Lapa",
+                  "text-makanan": "Lapa-Lapa terbuat dari beras dan dimasak bersama dengan santan kelapa. Cara penyajiannya biasanya dibungkus dengan daun kelapa muda atau janur. Lapa-Lapa bisa disantap dengan ikan asin. Lapa berasal dari bahasa Wolio yang berarti berlipat-lipat yang merujuk pada proses pembuatan yang dibungkus menggunakan janur pohon kelapa.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Banua Tada",
+                  "text-rumah": "Rumah adat Sulawesi Tenggara ini terdiri dari dua kata, Banua dan Tada. Banua mempunyai arti sebagai rumah, sementara Tanda mempunyai arti siku. Ketika digabungkan, rumah ini memiliki arti sebagai rumah siku. Rumah adat Banua Tada memiliki tiga jenis rumah, yaitu Kamali atau Malige yang merupakan rumah atau istana tempat tinggal bagi raja dan keluarganya.",
+                  "img-rumah": ""
+                },
+                "sulawesi-selatan": {
+                  "province": "Sulawesi Selatan",
+                  "ibukota": "Ibu Kota Makassar",
+                  "makanan": "Pisang Epe",
+                  "text-makanan": "Epe pada bahasa lokal Makassar berarti jepit atau dipipihkan. Makanan ini menggunakan pisang raja yang dibakar memakai alat pres atau penjepit. Pisang Epe biasanya disajikan dengan gula merah cair. Namun, saat ini Pisang Epe juga menggunakan topping lain seperti keju, cokelat, atau susu.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Tongkonan",
+                  "text-rumah": "Istilah Tongkonan berasal dari suku Toraja yaitu “tongkon” yang artinya duduk. Bentuk rumahnya menyerupai perahu kerajaan China. Bentuk tersebut sekaligus menjadi pengingat, bahwa nenek moyang suku Toraja dulu datang ke Sulawesi Selatan memakai perahu. Rumah adat ini, selain dipakai sebagai rumah juga digunakan untuk melaksanakan upacara-upacara adat.",
+                  "img-rumah": ""
+                },
+                "maluku-utara": {
+                  "province": "Maluku Utara",
+                  "ibukota": "Ibu Kota Sofifi",
+                  "makanan": "Woku Kumo Kumo",
+                  "text-makanan": "Woku Komo-Komo dibuat dengan sagu yang diperoleh dari pelepah pohon sagu yang kemudian direndam selama kurang lebih satu jam. Lalu, diberikan bumbu yang tentunya penuh dengan rempah-rempah. Pemberian bumbu rempah-rempah inilah yang menciptakan cita rasa khas pada makanan Woku Komo-Komo.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Baileo",
+                  "text-rumah": "Rumah adat tradisional pertama di Maluku Utara bernama Rumah Baileo. Rumah Baileo merupakan rumah yang di gunakan untuk kegiatan upacara atau acara-acara adat. Seperti kegunaannya, Rumah Baileo tidak di gunakan sebagai rumah hunian. Rumah Baileo terdiri hanya satu ruang yang digunakan sebagai pertemuan. Rumah Baileo berbentuk seperti rumah panggung dengan pondasi dari kayu, dan papan. Sementara untuk atapnya terbuat dari daun sagu.",
+                  "img-rumah": ""
+                },
+                "maluku": {
+                  "province": "Maluku",
+                  "ibukota": "Ibu Kota Ambon",
+                  "makanan": "Ikan Kuah Pala Banda",
+                  "text-makanan": "Makanan khas Maluku ini memiliki cita rasa khas karena rempah-rempah yang digunakan. Mulai dari pala, lada, cabai, dan rempah lainnya akan turut hadir pada makanan khas ini. Dulu ketika masih zaman penjajahan, makanan khas ini sering dijadikan sebagai sajian khusus untuk para pejabat Belanda. Ikan Kuah Pala Banda ini biasanya akan disantap dengan nasi putih biasa.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Baileo",
+                  "text-rumah": "Rumah adat tradisional pertama di Maluku Utara bernama Rumah Baileo. Rumah Baileo merupakan rumah yang di gunakan untuk kegiatan upacara atau acara-acara adat. Seperti kegunaannya, Rumah Baileo tidak di gunakan sebagai rumah hunian. Rumah Baileo terdiri hanya satu ruang yang digunakan sebagai pertemuan. Rumah Baileo berbentuk seperti rumah panggung dengan pondasi dari kayu, dan papan. Sementara untuk atapnya terbuat dari daun sagu.",
+                  "img-rumah": ""
+                }
+            }
+              
+        ],
+        "bali": [
+            {
+            "pre-test": [
+                {
+                    "id": 1,
+                    "soal": ""
+                },
+                {
+                    "id": 2,
+                    "soal": ""
+                }
+            ]
+            },
+            {
+                "post-test": [
+                    {
+                        "id": 1,
+                        "soal": "",
+                        "jawaban": ""
+                    },
+                    {
+                        "id": 2,
+                        "soal": "",
+                        "jawaban": ""
+                    }
+                    ]
+            },
+            {
+                "bali": {
+                  "province": "Bali",
+                  "ibukota": "Ibu Kota Denpasar",
+                  "makanan": "Sate Lilit",
+                  "text-makanan": "Sate lilit khas Bali menggunakan olahan daging ayam ataupun ikan yang sudah melalui proses penggilingan. Ketika daging ayam atau daging ikan sudah melalui proses penggilingan, proses berikutnya adalah mengepalkan daging tersebut ke batang serai. Daging tersebut juga nantinya akan diberikan campuran kelapa parut yang bisa memberikan rasa gurih ketika dimakan.",
+                  "img-makanan": "",
+                  "rumah": "Gapura Candi Bentar",
+                  "text-rumah": "Gapura Candi Bentar ini adalah rumah adat Balinya. Ada aturan khusus tentang pembangunan rumah adat tradisional Bali, yaitu meliputi arah, letak bangunan, dimensi pekarangan, konstruksi bangunan, dan juga struktur bangunan. Semua itu disesuaikan dengan ketentuan agama setempat. Gapura ini menjadi ciri khas utama dari rumah adat Bali. Gapura ini menjadi tempat masuk utama ke halaman rumah dan selalu ada di setiap rumah adat Bali. Lalu setelah melewati gapura, akan ada Pura yang terletak terpisah dari bangunan lainnya.",
+                  "img-rumah": ""
+                },
+                "nusa-tenggara-timur": {
+                  "province": "Nusa Tenggara Timur",
+                  "ibukota": "Ibu Kota Kupang",
+                  "makanan": "Kolo",
+                  "text-makanan": "Kolo dimasak di dalam bambu yang nantinya ditaruh di atas bara api untuk dibakar. Cara membuatnya, cuci beras dan sebelum dimasukkan ke dalam bambu muda dengan panjang sekitar 30 cm. Beras tersebut sudah dicampur dengan bumbu-bumbu khas NTT kemudian dimasukkan ke dalam bambu. Bambu dilapisi dengan daun pisang dan ditaruh berdiri di bara api untuk dibakar.",
+                  "img-makanan": "",
+                  "rumah": "Mbaru Niang",
+                  "text-rumah": "Rumah adat Nusa Tenggara Timur selanjutnya adalah rumah adat Mbaru Niang yang berasal dari Suku Manggarai dan hanya ada di kampung adat Wae Rebo yang terpencil di atas pegunungan. Rumah adat ini diperuntukan sebagai tempat tinggal masyarakat biasa. Setiap Mbaru Niang dihuni oleh enam sampai delapan keluarga. Konstruksi rumah adat ini mengandalkan tali rotan yang kokoh untuk mengikat komponen menjadi satu.",
+                  "img-rumah": ""
+                },
+                "nusa-tenggara-barat": {
+                  "province": "Nusa Tenggara Barat",
+                  "ibukota": "Ibu Kota Mataram",
+                  "makanan": "Ayam Taliwang",
+                  "text-makanan": "Ayam Taliwang adalah jenis makanan khas Lombok tepatnya daerah kecamatan taliwang di Sumbawa barat Nusa Tenggara Barat. Ayam ini diolesi bumbu khas Taliwang hingga meresap. Ayam taliwang terbuat dari ayam pejantan muda yang disajikan bersama makanan khas Lombok yang lain, seperti plecing kangkung, taburan bawang goreng, dan kacang goreng.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Bale",
+                  "text-rumah": "Rumah bale juga sering disebut sebagai rumah bale lumbung NTB. Keunikan rumah Bale NTB adalah dari bentuk atap memanjang yang menjulang tinggi menyerupai kubah. Adapun fungsi asli dari proporsi lebih luasnya atap yakni untuk tempat menyimpan padi. Rumah bale dibangun dengan mengkombinasikan atap jerami, dinding dari anyaman bambu, lantai dari kayu, serta pondasi tiang dari tanah dan batu.",
+                  "img-rumah": ""
+                }
+              }
+              
+        ],
+        "papua": [
+            {
+            "pre-test": [
+                {
+                    "id": 1,
+                    "soal": ""
+                },
+                {
+                    "id": 2,
+                    "soal": ""
+                }
+            ]
+            },
+            {
+                "post-test": [
+                    {
+                        "id": 1,
+                        "soal": "",
+                        "jawaban": ""
+                    },
+                    {
+                        "id": 2,
+                        "soal": "",
+                        "jawaban": ""
+                    }
+                    ]
+            },
+            {
+                "papua-barat": {
+                  "province": "Papua Barat",
+                  "ibukota": "Ibu Kota Manokwari",
+                  "makanan": "Ikan Bakar Manokwari",
+                  "text-makanan": "Ikan Bakar Manokwari memiliki cita rasa bumbu yang berbeda karena menggunakan sambal khas yang hanya bisa ditemui di Papua. Sebelum dibakar, ikan dilumuri dengan jeruk nipis supaya lebih segar dan mengurangi bau. Ikan Bakar Manokwari memiliki nilai gizi seperti vitamin, zat besi, mineral, dan lemak. Masakan ini bisa disajikan bersama dengan nasi hangat, sambal, kemangi, dan es jeruk.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Kaki Seribu",
+                  "text-rumah": "Rumah Kaki Seribu adalah suku Arfak yang banyak tinggal di Kabupaten Manokwari yang membangun rumah adat ini. Dijuluki rumah Kaki Seribu karena rumah ini memiliki tiang penyangga di bawah rumah dalam jumlah yang sangat banyak. Dengan ketinggian tersebut, rumah ini dianggap aman dari serangan hewan buas. Untuk mengurangi hawa dingin yang mengelilingi daerah setempat, rumah ini disiasati tidak memiliki jendela. Sehingga udara hanya dapat masuk melalui pintu.",
+                  "img-rumah": ""
+                },
+                "papua": {
+                  "province": "Papua",
+                  "ibukota": "Ibu Kota Jayapura",
+                  "makanan": "Kue Lontar",
+                  "text-makanan": "Kue Lontar adalah kue pie susu khas dari Papua. Pada bagian tengah kue ini memiliki tekstur lembut dan rasa yang manis. Sedangkan bagian pinggir pie cukup keras dan menyelimuti bagian tengah. Kue ini berbahan dasar margarin, tepung terigu, vanili, dan susu. Biasanya, kue Lontar tersedia dengan diameter yang bisa mencapai 20 cm dan memerlukan sebuah cetakan kue khusus.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Kariwari",
+                  "text-rumah": "Rumah adat Papua yang satu ini memiliki atap yang berbentuk limas segi delapan dengan arti yaitu dipercaya dapat memperkuat rumah tersebut dari segala macam cuaca serta melambangkan kedekatan manusia dengan Tuhan dan para leluhur yang telah mendahului. Rumah ini dibangun untuk tujuan pendidikan dan ibadah. Rumah ini umumnya dibangun di dekat Teluk Yotefa dan Danau Sentani, Jayapura.",
+                  "img-rumah": ""
+                },
+                "papua-tengah": {
+                  "province": "Papua Tengah",
+                  "ibukota": "Ibu Kota Nabire",
+                  "makanan": "Pisang Tanduk dan Keladi Masak Santan",
+                  "text-makanan": "Kuliner khas dari Pulau Mambor yang menggunakan kelapa bernama Pisang Tanduk dan Keladi Masak Santan. Cara memasaknya, pisang tanduk dan keladi direbus menggunakan santan kelapa sampai meresap. Bumbunya hanya garam. Cita rasanya gurih dan biasanya tersaji dengan tumisan daun papaya.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Igkojei",
+                  "text-rumah": "Rumah adat Igkojei adalah rumah adat yang berasal dari suku Wamesa di daerah Teluk Cendrawasih di Provinsi Papua Barat dan Papua Tengah. Bangunan rumah adat khas Teluk Cendrawasih ini menyerupai rumah kaki seribu. Persamaannya ada pada strukturnya yang memiliki banyak kaki rumah sebagai penyangga namun Rumah Adat Igkojei ini lebih mirip dengan rumah panggung dengan atap yang lebih modern. Di samping itu, rumah adat Igkojei ini juga memiliki banyak ventilasi udara dan lubang Cahaya.",
+                  "img-rumah": ""
+                },
+                "papua-pegunungan": {
+                  "province": "Papua Pegunungan",
+                  "ibukota": "Ibu Kota Jayawijaya",
+                  "makanan": "Papeda",
+                  "text-makanan": "Papeda memiliki warna putih bening atau agak keruh dan tekstur lengket yang mirip dengan lem. Papeda dibuat dari proses pengolahan sagu. Makanan ini biasanya dihidangkan bersama ikan, daging, kelapa, sayuran dan lainnya. Papeda bisa dibungkus menggunakan daun pisang untuk dimakan nanti.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Honai",
+                  "text-rumah": "Penamaan rumah ini berasal dari kata “Hun” berarti laki-laki dewasa dan “Ai” artinya rumah. Sehingga rumah Honai merupakan rumah yang diperuntukkan untuk laki-laki dewasa. Rumah Honai umumnya dikhususkan untuk para laki-laki saja. Rumah ini banyak ditemukan di lembah dan pegunungan bagian tengah Papua dan oleh penduduk lokal sekitar seperti suku Dani.",
+                  "img-rumah": ""
+                },
+                "papua-selatan": {
+                  "province": "Papua Selatan",
+                  "ibukota": "Ibu Kota Merauke",
+                  "makanan": "Dendeng Rusa",
+                  "text-makanan": "Rusa merupakan hewan yang sangat normal untuk dimakan di Merauke. Di Merauke banyak olahan daging rusa yang salah satunya dendeng rusa. Dendeng rusa banyak dijual dalam keadaan mentah yang kemudian perlu diolah kembali. Rusa memiliki daging yang keras sehingga memerlukan pengolahan yang benar.",
+                  "img-makanan": "",
+                  "rumah": "Rumah Jew",
+                  "text-rumah": "Rumah Jew merupakan rumah panggung yang sama sekali tidak menggunakan paku sebagai penghubung antar kayunya. Kayu-kayu tersebut hanya dihubungkan oleh akar-akar rotan pilihan. Rumah ini hanya boleh ditinggali oleh laki-laki yang belum menikah. Sehingga rumah ini juga dikenal sebagai rumah Bujang. Di dalam rumah tersebut para lelaki bujang belajar banyak hal dari bujang yang lebih senior maupun laki-laki yang sudah berkeluarga.",
+                  "img-rumah": ""
+                },
+                "papua-barat-daya": {
+                  "province": "Papua Barat Daya",
+                  "ibukota": "Ibu Kota Sorong",
+                  "makanan": "Sate Ulat Sagu",
+                  "text-makanan": "Penampilannya yang tidak eksotik justru menjadi makanan favorit bagi masyarakat Sorong. Mereka menganggap makanan satu ini menjadi penolong mereka karena dapat menurunkan resiko beberapa penyakit. Dahulu, masyarakat Sorong mengonsumsi ulat sagu dengan dimakan secara mentah-mentah, namun sekarang ulat sagu diolah menjadi sate seperti sate pada umumnya",
+                  "img-makanan": "",
+                  "rumah": "Rumah Rumsam",
+                  "text-rumah": "Atap rumah adat Papua yang satu ini berbentuk seperti perahu yang terbalik. Desain ini dipengaruhi oleh profesi mereka yang kebanyakan sebagai pelaut. Rumah ini bukan untuk ditinggali, namun digunakan sebagai tempat untuk mendidik anak laki-laki yang sudah dianggap sudah dapat berpikir dengan pemberian pendidikan Rumsram yang dilakukan di rumah Rumsram.",
+                  "img-rumah": ""
+                }
+              }
+              
+        ]
+      }
+    ]
+  }
