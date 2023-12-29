@@ -135,7 +135,7 @@ const Culture = ({ closeCulture }) => {
             exit={{ x: window.innerWidth, transition: { duration: 0.5 } }}
           >
             <div className="relative rounded-lg text-left overflow-hidden transform transition-all w-[50%] flex flex-col items-center">
-              <div className="flex items-center justify-center flex-col">
+              <div className="flex items-center justify-center flex-col invisible">
                 {/* <a href={`/${id}`}> */}
                 <button className="px-3 py-3 bg-yellow-0 rounded-full">
                   <IoClose className="title-profile cursor-pointer text-white" />
@@ -143,7 +143,7 @@ const Culture = ({ closeCulture }) => {
                 {/* </a> */}
               </div>
               <div className="px-4">
-                <div className="">
+                <div className="invisible">
                   <h1>DKI Jakarta</h1>
                 </div>
                 <div className="container-culture h-full">
