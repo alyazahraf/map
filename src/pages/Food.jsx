@@ -15,7 +15,7 @@ const Food = ({ closeModal }) => {
       animate={{ width: "100%" }}
       exit={{ x: window.innerWidth, transition: { duration: 0.5 } }}
     >
-      <div className="relative dark:bg-gray-700 rounded-lg text-left overflow-hidden transform transition-all w-[50%] flex flex-col items-center">
+      <div className="relative rounded-lg text-left overflow-hidden transform transition-all w-[50%] flex flex-col items-center">
         <div className="flex items-center justify-center flex-col invisible">
           <a href={`/${id}`}>
             <button className="px-3 py-3 bg-yellow-0 rounded-full">
